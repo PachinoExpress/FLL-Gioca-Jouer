@@ -8,6 +8,7 @@
     <Resources>
         <File name="Balli di gruppo-  Gioca Juer" src="behavior_1/Balli di gruppo-  Gioca Juer.mp3" />
         <File name="WeHave" src="WeHave.txt" />
+        <File name="README" src="README.md" />
     </Resources>
     <Topics />
     <IgnoredPaths />
