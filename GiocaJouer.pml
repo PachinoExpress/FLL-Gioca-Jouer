@@ -6,9 +6,11 @@
     </BehaviorDescriptions>
     <Dialogs />
     <Resources>
-        <File name="Balli di gruppo-  Gioca Juer" src="behavior_1/Balli di gruppo-  Gioca Juer.mp3" />
         <File name="WeHave" src="WeHave.txt" />
         <File name="README" src="README.md" />
+        <File name="7" src="behavior_1/7.mp3" />
+        <File name="icon" src="icon.png" />
+        <File name="GIOCA JUOER" src="behavior_1/GIOCA JUOER.mp3" />
     </Resources>
     <Topics />
     <IgnoredPaths />
