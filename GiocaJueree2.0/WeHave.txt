@@ -1,0 +1,54 @@
+dormire [FATTO]
+salutare [FATTO]
+autostop [FATTO]
+starnuto [FATTO]
+camminare[FATTO]
+nuotare[FATTO]
+sciare[FATTO]
+spray [FATTO]
+Macho[FATTO]
+clacson[FATTO]
+campana[FATTO]
+okeY[FATTO]
+baciare [FATTO]
+capelli[FATTO]
+saluti[FATTO]
+superman[FATTO]
+\\13 secondi di parlata
+dormire 
+salutare
+autostop
+starnuto
+camminare??
+nuotare??
+sciare??
+spray??
+Macho??
+clacson??
+campana??
+okeY??
+baciare??
+capelli??
+saluti??
+saluti??
+superman??
+\\20 secondi di parlata
+dormire 
+salutare
+autostop
+starnuto
+camminare??
+nuotare??
+sciare??
+spray??
+Macho??
+clacson??
+campana??
+okeY??
+baciare??
+capelli??
+saluti??
+saluti??
+superman??
+
+
